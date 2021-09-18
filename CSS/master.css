@@ -1,0 +1,65 @@
+body{font-family: 'Spartan', sans-serif; margin:0;
+    position:relative;
+  }
+  ul
+  {
+       list-style-type: none;
+       overflow: hidden;
+       position:absolute;
+       bottom:40px;
+       left:80px;   
+  }
+   ul li
+  {
+      float: left;
+      padding-left:50px;
+       
+  }
+  ul a{ color:white; cursor:pointer;
+    font-weight:bold;
+    font-size:14px;
+    margin:7px;
+  
+  }
+  
+  ul a:hover{ border-bottom:1px white solid;}
+  .list{position:relative;
+   
+  }
+  
+  #TL{
+    background:url("	https://quanmtran.github.io/room-homepage/images/desktop-image-hero-1.jpg");
+    background-position:left-top;
+    width:840px;
+  height:475px;
+    float:left;
+   
+   
+  }
+  .list h1{color:white; margin:0px;padding:50px}
+  
+  
+  .Rin{display:block; width:400px; float:left; margin-left:80px;  margin-top:120px; }
+  #p1{width:489px; color:#AAA1A1; padding-bottom:20px;}
+  #link1{font-size:small; font-weight:bold; float:left;}
+  #link1:hover{cursor:pointer; color:#AAA1A1;}
+  .arrow{ 
+    
+    width:40px;
+    height:12px;
+    float:left;
+    margin-left:20px;
+    margin-top:2px;
+    background-image:url("https://quanmtran.github.io/room-homepage/images/icon-arrow.svg")}
+  
+  .sliders{position:absolute; right:542px; top:400px }
+  
+  
+  
+  .slide{display:inline-block; width:75px; height:75px;
+  background-color:black;
+    border:none;
+  }
+  .slide:hover{background-color:#454545;
+  }
+  
